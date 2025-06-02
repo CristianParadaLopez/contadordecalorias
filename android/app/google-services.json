@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315133196807",
+    "project_id": "nutriscan-2eeb1",
+    "storage_bucket": "nutriscan-2eeb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315133196807:android:0f3aa20d3d637c911e48a2",
+        "android_client_info": {
+          "package_name": "com.example.nutriscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy8Q27R8FTLrY-B_rB9TUTMNPUX-4u1dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
